@@ -8,8 +8,8 @@ Date started: 1/07/2024
 GitHub URL: https://github.com/JinyuanYang20D/CP1404Practicals
 """
 
-import csv
 import random
+import csv
 
 books = open("books.csv", "r")
 print(books.read())
